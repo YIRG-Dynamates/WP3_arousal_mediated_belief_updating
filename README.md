@@ -1,6 +1,7 @@
 Code for all analyses for “Pupil dilation indicates arousal-related mediation of perceptual belief updating across auditory domains” - Fleischmann et al, 2026  
 
-This repository contains all scripts to reproduce all results and plots found in our paper from the data found in:  
+This repository contains all scripts to reproduce all results and plots found in our paper from the data found in:  https://osf.io/equ2b/  
+
 Skripts are roughly executed in alphabetical/numerical order as follows:  
 
 1. PREPROCESSING (Matlab):  
