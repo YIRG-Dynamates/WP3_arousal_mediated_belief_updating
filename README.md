@@ -33,14 +33,14 @@ This scripts exports all relevant measure in a convenient format, to be further 
 
 	E1_EXP_4_R.m
 
-6. Effect sizes for pupil model and behavioral model (Matlab):
+**6. EFFECT SIZES FOR PUPIL MODEL AND BEHAVIORAL MODEL (Matlab):**
 These scripts calculate predictive accuracies of the behavioral and the pupil model
 
 	F1_R_SQUARED.m
 	F2_R_SQUARED_BEHAVIOR.m
 
-7. Cluster-based permutation analysis, modelfree (Matlab)
-This script utilizes the fieldtrip toolbox and performs the cluster-based permutation analyses, produces an output file with all test statistics as well as Figure 4.
+**7. CLUSTER BASED PERMUTATION ANALYSIS, MODELFREE (Matlab)
+**This script utilizes the fieldtrip toolbox and performs the cluster-based permutation analyses, produces an output file with all test statistics as well as Figure 4.
 
 	G9_MODELFREE_CLUSTPERM.m
 
