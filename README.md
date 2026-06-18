@@ -9,7 +9,6 @@ Contains preprocessing of the pupil data of the respective dataset, utilizes the
 	A1_UNPACK_AND_PREPROCESS_MOTION.m
 	A2_UNPACK_AND_PREPROCESS_TEMPO.m
 
-
 2. DECONVOLUTION-BASED PUPIL MODEL (Matlab):
 These scripts apply the deconvolution-based pupil model (MATLAB FUNCTIONS/pupil_model).
 
@@ -33,14 +32,14 @@ This scripts exports all relevant measure in a convenient format, to be further 
 
 	E1_EXP_4_R.m
 
-**6. EFFECT SIZES FOR PUPIL MODEL AND BEHAVIORAL MODEL (Matlab):**
+6. EFFECT SIZES FOR PUPIL MODEL AND BEHAVIORAL MODEL (Matlab):
 These scripts calculate predictive accuracies of the behavioral and the pupil model
 
 	F1_R_SQUARED.m
 	F2_R_SQUARED_BEHAVIOR.m
 
-**7. CLUSTER BASED PERMUTATION ANALYSIS, MODELFREE (Matlab)
-**This script utilizes the fieldtrip toolbox and performs the cluster-based permutation analyses, produces an output file with all test statistics as well as Figure 4.
+7. CLUSTER BASED PERMUTATION ANALYSIS, MODELFREE (Matlab)
+This script utilizes the fieldtrip toolbox and performs the cluster-based permutation analyses, produces an output file with all test statistics as well as Figure 4.
 
 	G9_MODELFREE_CLUSTPERM.m
 
@@ -57,7 +56,6 @@ These scripts perform the Bayesian model comparison (producing the output for Ta
 
 	ACROSS_MODEL_COMPARISON.R
 	ACROSS_MODEL_COMPARISON_FREQUENTIST.R
-
 
 10. PLOTTING (R): 
 These scripts separately produce, then combine, plots 3 and 5.
