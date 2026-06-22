@@ -4,7 +4,7 @@ This repository contains all scripts to reproduce all results and plots found in
 
 This pipeline works from the already fitted variables, which can be found in the OSF repository to download. The Bayesian Direction CP Model itself can (if necessary) be accessed here in the folder: "bayesian_directoin_cp_model" (making use of functions in "specific to spatial experiment" and "specific to temporal experiment").  
 
-For questions contact: Roman.Fleischmann@oeaw.ac.at or meijerdavi1@gmail.com  
+For questions contact: Roman.Fleischmann@oeaw.ac.at or meijerdavid1@gmail.com  
 
 Skripts are roughly executed in alphabetical/numerical order as follows:  
 
