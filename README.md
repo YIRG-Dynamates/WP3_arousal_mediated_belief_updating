@@ -2,6 +2,10 @@ Code for all analyses for “Pupil dilation indicates arousal-related mediation 
 
 This repository contains all scripts to reproduce all results and plots found in our paper from the data found in:  https://osf.io/equ2b/  
 
+This pipeline works from the already fitted variables, which can be found in the OSF repository to download. The Bayesian Direction CP Model itself can (if necessary) be accessed here in the folder: "bayesian_directoin_cp_model" (making use of functions in "specific to spatial experiment" and "specific to temporal experiment").  
+
+For questions contact: Roman.Fleischmann@oeaw.ac.at or meijerdavi1@gmail.com  
+
 Skripts are roughly executed in alphabetical/numerical order as follows:  
 
 1. PREPROCESSING (Matlab):  
