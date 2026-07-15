@@ -30,37 +30,41 @@ These scripts produce plots of individual trials with the respective latent vari
 These scripts contain all ANOVAs with their respective effect sizes and test for the respective assumptions.  
 
 	D2_BEHAVIORAL_ACCURACY.m  
-	D3_BEHAVIORAL_CONFIDENCE.m  
+	D3_BEHAVIORAL_CONFIDENCE.m
 
-5. EXPORT FOR FURTHER ANALYSIS IN R (Matlab):  
+5. BEHAVIORAL ANALYSES ALONG MEDIAN-SPLIT OF LATENTS (Matlab):
+This script produces Table 1 as well as Figure 3.
+	D6_SAC1PLOTTING_LATENTS
+
+6. EXPORT FOR FURTHER ANALYSIS IN R (Matlab):  
 This scripts exports all relevant measure in a convenient format, to be further processed in R  
 
 	E1_EXP_4_R.m  
 
-6. EFFECT SIZES FOR PUPIL MODEL AND BEHAVIORAL MODEL (Matlab):  
+7. EFFECT SIZES FOR PUPIL MODEL AND BEHAVIORAL MODEL (Matlab):  
 These scripts calculate predictive accuracies of the behavioral and the pupil model  
 
 	F1_R_SQUARED.m  
 	F2_R_SQUARED_BEHAVIOR.m  
 
-7. CLUSTER BASED PERMUTATION ANALYSIS, MODELFREE (Matlab):  
+8. CLUSTER BASED PERMUTATION ANALYSIS, MODELFREE (Matlab):  
 This script utilizes the fieldtrip toolbox and performs the cluster-based permutation analyses, produces an output file with all test statistics as well as Figure 4.  
 
 	G9_MODELFREE_CLUSTPERM.m  
 
-8. REGRESSION ANALYSES (R):   
+9. REGRESSION ANALYSES (R):   
 These scripts perform all regression analysis and model comparisons within nested models, they produce the relevant output found in Table 2  
 
 	MIXED_EFFECTS_v4.R  
 	MODELFREE_ANALYSIS.R  
 
-9. MODEL COMPARISONS  (R):   
+10. MODEL COMPARISONS  (R):   
 These scripts perform the Bayesian model comparison (producing the output for Table 3) as well as the frequentist analogue (producing the output and figure found in the supplement)  
 
 	ACROSS_MODEL_COMPARISON.R  
 	ACROSS_MODEL_COMPARISON_FREQUENTIST.R  
 
-10. PLOTTING (R):  
+11. PLOTTING (R):  
 These scripts separately produce, then combine, plots 3 and 5.  
 
 	PLOTS_BEHAVIORAL.R  
