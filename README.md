@@ -33,7 +33,7 @@ These scripts contain all ANOVAs with their respective effect sizes and test for
 	D3_BEHAVIORAL_CONFIDENCE.m
 
 5. BEHAVIORAL ANALYSES ALONG MEDIAN-SPLIT OF LATENTS (Matlab):  
-This script produces Table 1 as well as Figure 3.
+This script produces Table 1 as well as Figure 3.  
   
 	D6_SAC1PLOTTING_LATENTS
 
